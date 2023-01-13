@@ -1,1 +1,1 @@
-# stepik_auto_tests_course_2
+# stepik_auto_tests_course
